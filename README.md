@@ -2,7 +2,7 @@
 
 I.MSc Quantitative Economics & Data Science at BIT Mesra, graduating 2027. I build retrieval and memory systems for LLMs, and I gravitate to problems where the statistics have to be right as well as the engineering.
 
-**Published:** *Distribution-free Uncertainty Quantification for Option Pricing Using Residual-space Conformal Prediction* — presented at CIMA 2026 (NIT Puducherry), published in Springer LNNS, Scopus-indexed.
+**Published:** *Distribution-free Uncertainty Quantification for Option Pricing Using Residual-space Conformal Prediction* presented at CIMA 2026 (NIT Puducherry), published in Springer LNNS, Scopus-indexed.
 
 ### Worth opening
 
