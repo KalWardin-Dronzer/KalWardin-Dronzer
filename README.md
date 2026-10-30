@@ -7,7 +7,7 @@ I.MSc Quantitative Economics & Data Science at BIT Mesra, graduating 2027. I bui
 ### Worth opening
 
 **[Long-Term Memory for LLM Assistants](https://github.com/KalWardin-Dronzer/Neurohack)**
-An LLM extracts typed, dated memories that cite their source turns, and dense + BM25 retrieval fused by Reciprocal Rank Fusion brings them back. On the LoCoMo benchmark it reaches 65.7% evidence recall@10 against 58.5% for raw-turn RAG, with 43% less context. The Gemini extractor is distilled into a LoRA-tuned Qwen3.5-0.8B that runs locally through Ollama and keeps 93% of the teacher's recall. Rebuilt from a 26th-place Neurohack (IIT Guwahati) entry.
+An LLM extracts typed, dated memories that cite their source turns, and dense + BM25 retrieval fused by Reciprocal Rank Fusion brings them back. Benchmarked end to end on LoCoMo: it answers temporal questions far better than raw-turn RAG (76% vs 52%), because dates are resolved when a memory is written, but trails it on single-hop detail questions, and the write-up shows why. Its Gemini extractor is distilled into a LoRA-tuned Qwen3.5-0.8B that runs locally through Ollama. Rebuilt from a 26th-place Neurohack (IIT Guwahati) entry.
 
 **[Hybrid CNN–BiLSTM–Transformer for Predictive Maintenance](https://github.com/KalWardin-Dronzer/NASA-C_MAPSS_transformers)**
 Remaining-useful-life prediction on NASA C-MAPSS: a CNN block for local degradation patterns, a BiLSTM for sequence dependencies, and a 2-block Transformer encoder with positional encoding and multi-head attention, with Monte Carlo dropout for uncertainty estimates.
