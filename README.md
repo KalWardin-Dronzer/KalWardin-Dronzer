@@ -12,8 +12,8 @@ An LLM extracts typed, dated memories that cite their source turns, and dense + 
 **[Hybrid CNN–BiLSTM–Transformer for Predictive Maintenance](https://github.com/KalWardin-Dronzer/NASA-C_MAPSS_transformers)**
 Remaining-useful-life prediction on NASA C-MAPSS: a CNN block for local degradation patterns, a BiLSTM for sequence dependencies, and a 2-block Transformer encoder with positional encoding and multi-head attention, with Monte Carlo dropout for uncertainty estimates.
 
-**[Automated Data Platform with LLM Query Interface](https://github.com/KalWardin-Dronzer/Political_Alpha_Tracker)**
-A quantitative research pipeline over public disclosure data: weekday ETL of BSE announcements, bulk and block deals, board changes and promoter pledges into SQLite, graph-based entity scoring, factor validation with purged, embargoed cross-validation and a deflated Sharpe ratio, and a Gemini text-to-SQL layer so non-technical users can query the data directly. Docker, GitHub Actions, AWS EC2.
+**[Electoral bonds and stock returns](https://github.com/KalWardin-Dronzer/Political_Alpha_Tracker)**
+Matched all 18,871 bonds in India's March 2024 electoral bond disclosure to 1,589 listed companies, then re-tested a published political lead-lag with a size-matched placebo, period-clustered errors, trading costs and a deflated Sharpe ratio. It does not hold: the lead-lag that exists is size and liquidity, and costs erase it. Checking the refactor against the old outputs turned up four measurement bugs, now fixed. Python, pandas, statsmodels, RapidFuzz, NetworkX, GitHub Actions.
 
 ### Also here
 
