@@ -17,7 +17,7 @@ Matched all 18,871 bonds in India's March 2024 electoral bond disclosure to 1,58
 
 ### Also here
 
-Bayesian inference on COVID-19 transmission with adaptive Metropolis–Hastings MCMC · a regime-aware genetic algorithm for multi-asset portfolio optimisation · SARIMA forecasting of India's electricity generation.
+Bayesian inference on COVID-19 transmission with adaptive Metropolis–Hastings MCMC · a regime-aware genetic algorithm for multi-asset portfolio optimisation.
 
 ---
 
